@@ -1,0 +1,1 @@
+[I 2025-04-22 13:24:39,071] Trial 12 finished with value: 0.02317917718387702 and parameters: {'lstm_layers': 3, 'lstm_hidden': 110, 'n_fc': 1, 'fc_hidden_0': 62, 'lr': 0.0004950470260369062}. Best is trial 12 with value: 0.0231791771838770
